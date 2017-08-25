@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GetAAR.iml" filepath="$PROJECT_DIR$/GetAAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aartest/aartest.iml" filepath="$PROJECT_DIR$/aartest/aartest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
